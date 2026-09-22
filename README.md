@@ -98,6 +98,7 @@ y:
 
 Los recursos estáticos se encuentran dentro de la carpeta `public`:
 
+```text
 public/
 ├── css/
 │   └── estilos.css
@@ -105,6 +106,7 @@ public/
 │   └── mascota.svg
 └── js/
     └── app.js
+```
 
 Para hacerlos accesibles desde el navegador se utiliza:
 
@@ -116,7 +118,9 @@ La función `express.static` permite que Express sirva archivos estáticos como 
 
 Por ejemplo, el archivo:
 
+```text
 public/css/estilos.css
+```
 
 se puede acceder desde el navegador mediante:
 
