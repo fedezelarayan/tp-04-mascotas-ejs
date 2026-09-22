@@ -133,7 +133,7 @@ se puede acceder desde el navegador mediante:
 El formulario se encuentra en:
 
 ```text
-views/nueva.ejs
+views/mascotas/nueva.ejs
 ```
 
 Utiliza el método `POST` y envía los datos a:
