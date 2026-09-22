@@ -1,0 +1,1 @@
+console.log('Aplicación de mascotas cargada correctamente.');

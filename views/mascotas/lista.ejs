@@ -1,0 +1,25 @@
+<h1><%= titulo %></h1>
+
+<a href="/mascotas/nueva">Registrar nueva mascota</a>
+
+<% if (mascotas.length === 0) { %>
+    <p>No hay mascotas registradas.</p>
+<% } else { %>
+
+    <div class="catalogo">
+        <% mascotas.forEach(mascota => { %>
+            <article class="tarjeta">
+                <h2><%= mascota.nombre %></h2>
+
+                <p>Especie: <%= mascota.especie %></p>
+                <p>Edad: <%= mascota.edad %></p>
+                <p>Estado: <%= mascota.estado %></p>
+
+                <a href="/mascotas/<%= mascota.id %>">
+                    Ver detalle
+                </a>
+            </article>
+        <% }); %>
+    </div>
+
+<% } %>

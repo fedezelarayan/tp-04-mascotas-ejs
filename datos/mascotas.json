@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "nombre": "Luna",
+        "especie": "Gato",
+        "edad": 2,
+        "descripcion": "Gata tranquila y cariñosa, acostumbrada a convivir con personas.",
+        "estado": "En adopción",
+        "imagen": "/img/mascota.svg"
+    },
+    {
+        "id": 2,
+        "nombre": "Toby",
+        "especie": "Perro",
+        "edad": 4,
+        "descripcion": "Perro juguetón y sociable que disfruta de los paseos.",
+        "estado": "Reservada",
+        "imagen": "/img/mascota.svg"
+    },
+    {
+        "id": 3,
+        "nombre": "Milo",
+        "especie": "Gato",
+        "edad": 1,
+        "descripcion": "Gato joven, curioso y activo, ideal para una familia.",
+        "estado": "Adoptada",
+        "imagen": "/img/mascota.svg"
+    },
+    {
+        "id": 4,
+        "nombre": "Simba",
+        "especie": "Perro",
+        "edad": 6,
+        "descripcion": "Perro tranquilo y afectuoso que se lleva bien con otros animales.",
+        "estado": "En adopción",
+        "imagen": "/img/mascota.svg"
+    },
+    {
+        "id": 5,
+        "nombre": "Nala",
+        "especie": "Gato",
+        "edad": 3,
+        "descripcion": "Gata independiente pero cariñosa, de carácter tranquilo.",
+        "estado": "Reservada",
+        "imagen": "/img/mascota.svg"
+    },
+    {
+        "id": 6,
+        "nombre": "Rocky",
+        "especie": "Perro",
+        "edad": 8,
+        "descripcion": "Perro adulto, tranquilo y muy compañero con las personas.",
+        "estado": "Adoptada",
+        "imagen": "/img/mascota.svg"
+    },
+    {
+        "id": 7,
+        "nombre": "Coco",
+        "especie": "Perro",
+        "edad": 0,
+        "descripcion": "Cachorro energético y juguetón que busca un hogar responsable.",
+        "estado": "En adopción",
+        "imagen": "/img/mascota.svg"
+    }
+]
